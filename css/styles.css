@@ -133,6 +133,7 @@ body {
 /* What are we doing */
 
 .section-title {
+  color: var(--color-brand);
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
